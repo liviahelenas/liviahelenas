@@ -19,5 +19,5 @@
 
 ## 📫 Contato
 
-- LinkedIn : https://www.linkedin.com/feed/update/urn:li:activity:7280949750911107072/
+- LinkedIn :(https://www.linkedin.com/in/liviarochas/)
 - Behance : https://www.behance.net/liviahelenas
