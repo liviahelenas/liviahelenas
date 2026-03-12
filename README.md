@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá! Eu sou a Lívia 👋
 
-<!--
-**liviahelenas/liviahelenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de desenvolvimento web  
+🎨 Designer focada em UX  
+📚 Atualmente estudando Java e Front-end
 
-Here are some ideas to get you started:
+## 🚀 Projetos em desenvolvimento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Meu repositório de aulas no IFTM
+- Portfólio
+- Sala de Estudos - aplicativo de estudos
+
+## 🧠 O que estou aprendendo
+
+- Java
+- HTML
+- CSS
+- UX Design
+
+## 📫 Contato
+
+- LinkedIn : https://www.linkedin.com/feed/update/urn:li:activity:7280949750911107072/
+- Behance : https://www.behance.net/liviahelenas
