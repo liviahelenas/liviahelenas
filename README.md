@@ -15,6 +15,7 @@
 - Java
 - HTML
 - CSS
+- Javascript
 - UX Design
 
 ## 📫 Contato
