@@ -1,19 +1,16 @@
 # Olá! Eu sou a Lívia 👋
 
-💻 Estudante de desenvolvimento web  
-🎨 Designer focada em UX  
-📚 Atualmente estudando Front-end
+💻 Estudante de desenvolvimento web; 
+🎨 Designer focada em UX;
+📚 Atualmente estudando Front-end.
 
 
-## 🧠 O que estou aprendendo
+## 🧠 Minhas Ferramentas
 
-- React
-- HTML
-- CSS
-- Javascript
-- Typescript
-- UX Design
-- Figma
+- React;
+- HTML, CSS, Javascript;
+- Typescript;
+- Figma.
 
 ## 📫 Contato
 
