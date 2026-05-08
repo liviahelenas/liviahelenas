@@ -4,15 +4,10 @@
 🎨 Designer focada em UX  
 📚 Atualmente estudando Java e Front-end
 
-## 🚀 Projetos em desenvolvimento
-
-- Meu repositório de aulas no IFTM
-- Portfólio
-- Sala de Estudos - aplicativo de estudos
 
 ## 🧠 O que estou aprendendo
 
-- Java
+- React
 - HTML
 - CSS
 - Javascript
