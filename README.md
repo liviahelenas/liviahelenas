@@ -2,7 +2,7 @@
 
 💻 Estudante de desenvolvimento web  
 🎨 Designer focada em UX  
-📚 Atualmente estudando Java e Front-end
+📚 Atualmente estudando Front-end
 
 
 ## 🧠 O que estou aprendendo
