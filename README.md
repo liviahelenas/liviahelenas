@@ -7,10 +7,10 @@
 
 ## 🧠 Minhas Ferramentas
 
-- React;
-- HTML, CSS, Javascript;
-- Typescript;
 - Figma.
+- HTML, CSS, Javascript;
+- React;
+- Typescript;
 
 ## 📫 Contato
 
