@@ -7,7 +7,7 @@
 
 ## 🧠 Minhas Ferramentas
 
-- Figma.
+- Figma;
 - HTML, CSS, Javascript;
 - React;
 - Typescript;
