@@ -11,7 +11,9 @@
 - HTML
 - CSS
 - Javascript
+- Typescript
 - UX Design
+- Figma
 
 ## 📫 Contato
 
