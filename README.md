@@ -1,8 +1,8 @@
 # Olá! Eu sou a Lívia 👋
 
-💻 Estudante de desenvolvimento web; 
-🎨 Designer focada em UX;
-📚 Atualmente estudando Front-end.
+💻 Estudante de desenvolvimento web | 
+🎨 Designer focada em UX |
+📚 Atualmente estudando Front-end
 
 
 ## 🧠 Minhas Ferramentas
